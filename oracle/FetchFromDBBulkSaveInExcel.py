@@ -1,4 +1,4 @@
-import cx_Oracle
+import cx_Oracle, json
 import db_config
 from openpyxl import Workbook
 
@@ -32,8 +32,9 @@ for row in res:
     sheet.append(row)
 print(rowdata)
 
-book.save("department.xlsx")
+book.save("departmenta.xlsx")
 
+print json.dumps(rowdata, default=json_serial)
 
 cur.close()
 con.close()

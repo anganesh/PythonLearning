@@ -1,0 +1,17 @@
+
+22 June Meeting minutes
+
+Participants: Ganesh, Vengatesh, Faizal, Shaveethaa and Sivanesan
+
+Updates from Individuals:
+
+Vengatesh:  Learning basics and documenting the same for future quick reference.  like special character handling, etc.  Also looking into how to connect to sqllite/mysql.  exploring pycharm/atom.  Will try to share the document in the next session. 
+
+Sivanesan:  Going through basics, has a project requirement to read table data in pdf document using python.  Want to explore whether we can do this in python.
+
+Shaveethaa:  This week to go through the basics and explore more on pandas
+
+Faizal:  Using Pycharm,  Writing to excel, manipulating data in excel etc.  He will continue on this, this week as well.
+
+Ganesh:  Last week explored retrieving data from database and conversion to json format.  showed the demo of what's been done so far and will continue to explore further on this.
+

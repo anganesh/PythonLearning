@@ -1,0 +1,29 @@
+
+
+Participants: Ganesh, Vengatesh, Faizal, Abdul and Sivanesan
+
+
+To start with we agreed to look into the below topics and share our learning in the next Tuesday call.  
+Since, we are just starting, we agreed to have only one call this week.  Based on how we are progressing in subsequent weeks, 
+we can meet twice in a week.
+
+
+Topics that we discussed this week:
+
+About Frameworks... 
+
+Initial Setup:  Documentation, 
+
+DB connectivity
+
+Tool to use for coding
+
+Loading data in different format to database
+	XML
+	JSON
+	EXCEL
+	
+Website local hosting and running SQL query
+
+CSV Append/ Excel addition
+
