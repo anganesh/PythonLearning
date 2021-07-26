@@ -51,7 +51,7 @@ for i in data['sql_details']:
     print(rowdata)
     cur.close()
 
-book.save("multisqla.xlsx")
+book.save("multisqlabc.xlsx")
 
 
 

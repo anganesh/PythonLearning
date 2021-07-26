@@ -1,10 +1,10 @@
 {
 "sql_details":
 [
-{"sheetName":"emp",
-"sql":"select * from hr.employees"},
-{"sheetName":"dept",
-"sql":"select * from hr.departments"}
+{"sheetName":"emp1",
+"sql":"select * from hr.employees "},
+{"sheetName":"dept1",
+"sql":"select * from hr.departments "}
 
 ]
 }
