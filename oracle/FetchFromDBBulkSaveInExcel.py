@@ -32,7 +32,7 @@ for row in res:
     sheet.append(row)
 print(rowdata)
 
-book.save("departmentaz.xlsx")
+book.save("departmentatest.xlsx")
 
 #print json.dumps(rowdata, default=json_serial)
 
